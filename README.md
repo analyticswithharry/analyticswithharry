@@ -25,8 +25,8 @@ Experience in technical and fundamental analysis, portfolio construction, and ri
 
 ##  Software and Expertise
 - **Programming Languages**: Python, JavaScript, C++ and R Programming 
-- **Web Development & Framework**: HTML, CSS & Streamlit, Node.js, Django, React, and React Native
-- **Database**: Microsoft SQL, SQL Lite, and Mongodb
+- **Web Development & Framework**: HTML, CSS & Streamlit, Node.js, Django, React.js, Next.js, Vite.js, TypeScript, and React Native
+- **Database**: Microsoft SQL, SQL Lite, PostgreSql and Mongodb
 - **Data Visualisation Tools**: Microsoft Excel, Power BI, Tableau, Matplotlib, and Seaborn
 - **Data Science Libraries (Api)**: Numpy, Pandas, Polars, statsmodels, Scikit-learn, Keras, TensorFlow, PyTorch, yfinance, pyttsx3, gTTS (Google Text-to-Speech), sounddevice, and SpeechRecognition
 - **Development Environments**: Jupyter Notebook, Visual Studio Code, Anaconda, and Google Colab
