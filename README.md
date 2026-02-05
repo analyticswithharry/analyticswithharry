@@ -32,7 +32,7 @@ Experience in technical and fundamental analysis, portfolio construction, and ri
 - **Development Environments**: Jupyter Notebook, Visual Studio Code, Anaconda, and Google Colab
 - **Microsoft Suite**: MS Word, MS Excel, MS Visio, MS PowerPoint, and Google Analytics 
 - **Collaborative Tools**: Google Sheets, Google Doc, Google Drive, Dropbox, Discord, Zoom, MS Team, Monday.com and OneDrive. 
-- **Graphic Design**: Adobe Photoshop
+- **Graphic & Video Design**: Adobe Photoshop, Adobe Premiere Pro & Canva Pro
   
 ![Harry's World](https://github.com/harryworlds/harryworlds/blob/main/park.jpg)
 
