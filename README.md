@@ -6,12 +6,14 @@ drive business strategy.
 Based in Glasgow, I am driven by a passion for developing innovative solutions to engineering challenges. I thrive on exploring new ideas, thinking creatively, and actively contributing to open-source projects. With a continuous pursuit of growth and learning, my long-term goal is to make a meaningful impact on both society and the environment.
 <br />
 ##### #Blairdrummond 2019
-⚙️ Founded Machine Learning Library Nalyst on 2022
+Founded Machine Learning Library Nalyst on 2022
 ```text
 pip install nalyst
 ```
+<br />
+Founded Deep Learning Library Neurova on 2025
 ```text
-pip install --upgrade nalyst
+pip install neurova
 ```
 <br />
 
@@ -42,4 +44,4 @@ Experience in technical and fundamental analysis, portfolio construction, and ri
   <a href="https://www.tiktok.com/@analyticalharry"><img src="https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="20"></a>
   <a href="https://twitter.com/AnalyticalHarry"><img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" height="20"></a>
 </p>
-🤝 Collaboration Requests: analyticalharry@gmail.com
+Collaboration Requests: analyticalharry@gmail.com
