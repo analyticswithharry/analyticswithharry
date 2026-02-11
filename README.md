@@ -7,7 +7,6 @@
   <img src="https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg" />
 </p>
 
-<h1 align="center">Harry</h1>
 <h3 align="center">Data Scientist · Quantitative Analyst · ML Engineer</h3>
 
 <p align="center">
