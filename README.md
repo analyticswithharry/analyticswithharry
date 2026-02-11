@@ -1,46 +1,150 @@
-<p align="leftr"> 
-I can analyse big data, construct predictive models, and translate data into meaningful insights that 
-drive business strategy.
-  
-![Harry's World](https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg)
-Based in Glasgow, I am driven by a passion for developing innovative solutions to engineering challenges. I thrive on exploring new ideas, thinking creatively, and actively contributing to open-source projects. With a continuous pursuit of growth and learning, my long-term goal is to make a meaningful impact on both society and the environment.
-<br />
-##### #Blairdrummond 2019
-1. Founded Machine Learning Library Nalyst on 2022
-2. Deep Learning Library Neurova on 2025
-```text
+<!-- ================================================== -->
+<!--                     HERO                          -->
+<!-- ================================================== -->
+
+<h1 align="center">Harry</h1>
+<h3 align="center">Data Scientist · Quantitative Analyst · ML Engineer</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openstreetmap.svg" width="14"/> Based in Glasgow, Scotland<br/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" width="14"/> Predictive Systems & Machine Learning Engineering<br/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/chartdotjs.svg" width="14"/> Data-Driven Strategy & Quantitative Analysis
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/analyticalharry/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@AnalyticalHarry">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="18"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/AnalyticalHarry">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="18"/>
+  </a>
+</p>
+
+---
+
+## About
+
+I design predictive models, construct scalable machine learning systems, and translate high-dimensional datasets into strategic financial and operational insights.
+
+My work integrates:
+
+- Machine Learning Engineering  
+- Quantitative Finance  
+- Statistical Modelling  
+- Open-Source Framework Development  
+
+Long-term objective: build intelligent systems that create durable economic and societal impact.
+
+---
+
+## Open-Source Projects
+
+### Nalyst (2022) — Machine Learning Library
+
+Lightweight framework for building ML algorithms from scratch.
+
+```bash
 pip install nalyst
 ```
-```text
+
+Core focus:
+- Transparent algorithm design  
+- Modular experimentation  
+- Educational clarity with production awareness  
+
+---
+
+### Neurova (2025) — Deep Learning Framework
+
+Scalable architecture for neural network experimentation and custom research workflows.
+
+```bash
 pip install neurova
 ```
-<br />
 
-## Technical 
-Experience in data analysis, preprocessing, and statistical methods, with a solid understanding of advanced mathematics. I'm familiar with build machine learning algorithms from scratch like regression, decision trees, random forest, SVM, and neural networks, as well as deep learning models such as CNNs, RNNs, and autoencoders. I’ve worked with clustering (hierarchical, DBSCAN), dimensionality reduction (PCA, SVD), and time series analysis. I can create dashboards and KPIs using Power BI and Tableau, and have experience in NLP, text mining, A/B testing, and deploying models, while maintaining data governance and quality.
+Includes:
+- CNN modules  
+- RNN architectures  
+- Autoencoder systems  
+- Flexible training pipelines  
 
+---
 
-## Asset Management 
-Experience in technical and fundamental analysis, portfolio construction, and risk management. My expertise includes quantitative and trend analysis, start-up valuation, and in-depth equity and fixed-income analysis. I possess a strong understanding of alternative investments, option spread and pricing, and strategic financial planning. Involved in developing long and short term investment strategies, financial modelling, and forecasting, I excel in economic and market analysis, asset allocation, managing risk effectively and diversification. Additionally, I familiar with regulatory compliance and reporting practices.
+## Core Expertise
 
-##  Software and Expertise
-- **Programming Languages**: Python, JavaScript, C++ and R Programming 
-- **Web Development & Framework**: HTML, CSS & Streamlit, Node.js, Django, React.js, Next.js, Vite.js, TypeScript, and React Native
-- **Database**: Microsoft SQL, SQL Lite, PostgreSql and Mongodb
-- **Data Visualisation Tools**: Microsoft Excel, Power BI, Tableau, Matplotlib, and Seaborn
-- **Data Science Libraries (Api)**: Numpy, Pandas, Polars, statsmodels, Scikit-learn, Keras, TensorFlow, PyTorch, yfinance, pyttsx3, gTTS (Google Text-to-Speech), sounddevice, and SpeechRecognition
-- **Development Environments**: Jupyter Notebook, Visual Studio Code, Anaconda, and Google Colab
-- **Microsoft Suite**: MS Word, MS Excel, MS Visio, MS PowerPoint, and Google Analytics 
-- **Collaborative Tools**: Google Sheets, Google Doc, Google Drive, Dropbox, Discord, Zoom, MS Team, Monday.com and OneDrive. 
-- **Graphic & Video Design**: Adobe Photoshop, Adobe Premiere Pro & Canva Pro
-  
-![Harry's World](https://github.com/harryworlds/harryworlds/blob/main/park.jpg)
+### Machine Learning & Data Science
 
-<br />
+- Regression (Linear, Ridge, Lasso)  
+- Decision Trees & Random Forest  
+- Support Vector Machines  
+- Neural Networks (from-scratch implementation)  
+- CNNs, RNNs, Autoencoders  
+- Time Series Forecasting  
+- Clustering (Hierarchical, DBSCAN)  
+- Dimensionality Reduction (PCA, SVD)  
+- NLP & Text Mining  
+- A/B Testing  
+- Model Deployment & Data Governance  
+
+---
+
+### Quantitative Finance & Asset Management
+
+- Portfolio Construction & Asset Allocation  
+- Risk Modelling & Diversification  
+- Equity & Fixed Income Analysis  
+- Options Pricing & Spread Strategies  
+- Financial Forecasting  
+- Startup Valuation  
+- Macro & Market Research  
+
+---
+
+## Technical Stack
+
+### Programming
+`Python` `C++` `R` `JavaScript` `TypeScript`
+
+### Machine Learning & Data
+`NumPy` `Pandas` `Polars` `Statsmodels`  
+`Scikit-Learn` `Keras` `TensorFlow` `PyTorch`  
+`yfinance`
+
+### Web & Frameworks
+`Django` `Streamlit` `React` `Next.js`  
+`Node.js` `Vite` `React Native`
+
+### Databases
+`PostgreSQL` `MongoDB` `SQLite` `Microsoft SQL Server`
+
+### Visualisation
+`Matplotlib` `Seaborn` `Power BI` `Tableau` `Excel`
+
+### Development Environment
+`Jupyter Notebook` `VS Code` `Anaconda` `Google Colab`
+
+---
+
+## Engineering Approach
+
+- Develop algorithms from first principles to ensure conceptual depth  
+- Prioritise interpretability alongside optimisation  
+- Architect systems for scalability, not just experimentation  
+- Align technical decisions with financial and strategic objectives  
+
+---
+
+## Contact
+
+analyticalharry@gmail.com
+
+---
+
 <p align="center">
-  <a href="https://www.youtube.com/@AnalyticalHarry"><img src="https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry" alt="YouTube" height="20"></a>
-  <a href="https://www.linkedin.com/in/analyticalharry/"><img src="https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/analyticalharry/" alt="LinkedIn" height="20"></a>
-  <a href="https://www.tiktok.com/@analyticalharry"><img src="https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="20"></a>
-  <a href="https://twitter.com/AnalyticalHarry"><img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" height="20"></a>
+  Building systems that scale beyond models.
 </p>
-Collaboration Requests: analyticalharry@gmail.com
