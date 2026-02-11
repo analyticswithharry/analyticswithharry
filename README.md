@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg" />
 </p>
 
-<h4 align="center">Data Science · Quantitative · Web Development</h4>
+<h4 align="center">Data Science · Quant · Web Development</h4>
 
 <p align="center">
   Based in Glasgow, Scotland<br>
