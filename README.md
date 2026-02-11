@@ -7,7 +7,6 @@
 <p align="center">
   Based in Glasgow, Scotland
 </p>
-___
 
 I work with large datasets, build predictive models, and turn data into practical insights that support better decision-making.
 
