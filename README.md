@@ -1,136 +1,100 @@
-<!-- ================================================== -->
-<!--                    COVER IMAGE                     -->
-<!--      (Your original image preserved exactly)      -->
-<!-- ================================================== -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg" />
 </p>
 
-<h4 align="center">Data Science · Quant · Web Development</h4>
+<h3 align="center">Data Science · Quant · Web Development</h3>
 
 <p align="center">
-  Based in Glasgow, Scotland<br>
-  Predictive Systems · Quantitative Strategy · Scalable Machine Learning
+  Based in Glasgow, Scotland
 </p>
 
 ---
 
 ## About
 
-I analyse large-scale datasets, construct predictive models, and translate complex information into strategic insights that drive measurable outcomes.
+I work with large datasets, build predictive models, and turn data into practical insights that support better decision-making.
 
-My work integrates:
+My interests are mainly in:
 
-- Machine Learning Engineering  
+- Machine Learning  
 - Quantitative Finance  
 - Statistical Modelling  
-- Open-Source Framework Development  
+- Open-Source Development  
 
-I am motivated by building intelligent systems that create long-term economic, societal, and environmental impact.
+I enjoy building systems from scratch to understand how they work at a deeper level.  
+My long-term goal is to apply technology in ways that create meaningful and responsible impact.
 
 ---
 
-## Open-Source Work
+## Open-Source Projects
 
-### Nalyst (Founded 2022)
-Machine learning library focused on transparent algorithm implementation and modular experimentation.
+### Nalyst (2022)
+
+A machine learning library focused on implementing core algorithms clearly and transparently.
 
 ```bash
 pip install nalyst
 ```
 
-Key Focus:
-- Algorithms implemented from scratch  
-- Educational clarity with production awareness  
-- Lightweight and modular design  
+### Neurova (2025)
 
----
-
-### Neurova (Founded 2025)
-Deep learning framework designed for scalable neural architecture experimentation.
+A deep learning framework designed for experimenting with neural network architectures.
 
 ```bash
 pip install neurova
 ```
 
-Includes:
-- CNN modules  
-- RNN architectures  
-- Autoencoders  
-- Flexible training pipelines  
-
 ---
 
-## Technical Expertise
+## Technical Experience
 
-### Machine Learning & Data Science
+### Machine Learning & Data
 
-- Regression (Linear, Ridge, Lasso)  
-- Decision Trees & Random Forest  
+- Linear, Ridge, and Lasso Regression  
+- Decision Trees and Random Forest  
 - Support Vector Machines  
-- Neural Networks (from-scratch implementation)  
+- Neural Networks (built from scratch)  
 - CNNs, RNNs, Autoencoders  
-- Time Series Forecasting  
+- Time Series Analysis  
 - Clustering (Hierarchical, DBSCAN)  
-- Dimensionality Reduction (PCA, SVD)  
-- NLP & Text Mining  
+- PCA and SVD  
+- NLP and Text Analysis  
 - A/B Testing  
-- Model Deployment & Data Governance  
+- Model Deployment  
 
 ---
 
-### Asset Management & Quantitative Finance
+### Finance & Asset Management
 
-- Portfolio Construction & Asset Allocation  
-- Quantitative & Trend Analysis  
-- Risk Management & Diversification  
-- Equity & Fixed Income Analysis  
-- Startup Valuation  
-- Options Pricing & Spread Strategies  
-- Financial Forecasting  
-- Macro & Market Research  
+- Portfolio Construction  
+- Risk Analysis  
+- Equity and Fixed Income Analysis  
+- Options Pricing  
+- Financial Modelling  
+- Market and Economic Analysis  
 
 ---
 
 ## Technical Stack
 
-### Programming
+**Programming**  
 `Python` `C++` `R` `JavaScript` `TypeScript`
 
-### Machine Learning & Data
+**Data & ML Libraries**  
 `NumPy` `Pandas` `Polars` `Statsmodels`  
-`Scikit-Learn` `Keras` `TensorFlow` `PyTorch`  
-`yfinance`
+`Scikit-Learn` `TensorFlow` `PyTorch` `Keras`
 
-### Web & Frameworks
-`Django` `Streamlit` `React` `Next.js`  
-`Node.js` `Vite` `React Native`
+**Web & Frameworks**  
+`Django` `Streamlit` `React` `Next.js` `Node.js`
 
-### Databases
+**Databases**  
 `PostgreSQL` `MongoDB` `SQLite` `Microsoft SQL Server`
 
-### Visualisation
+**Visualisation & Tools**  
 `Matplotlib` `Seaborn` `Power BI` `Tableau` `Excel`
-
-### Development Environment
-`Jupyter Notebook` `VS Code` `Anaconda` `Google Colab`
-
----
-
-## Engineering Philosophy
-
-- Build core systems from first principles  
-- Prioritise interpretability alongside optimisation  
-- Architect for scalability, not just experimentation  
-- Align technical systems with financial and strategic outcomes  
 
 ---
 
 ## Contact
 
-analyticalharry@gmail.com  
-
-<p align="center">
-  Continuous learning. System-level thinking. Scalable impact.
-</p>
+analyticalharry@gmail.com
