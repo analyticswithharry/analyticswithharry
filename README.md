@@ -1,35 +1,25 @@
 <!-- ================================================== -->
-<!--                     HERO                          -->
+<!--                    COVER IMAGE                     -->
+<!--      (Your original image preserved exactly)      -->
 <!-- ================================================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg" />
+</p>
 
 <h1 align="center">Harry</h1>
 <h3 align="center">Data Scientist · Quantitative Analyst · ML Engineer</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openstreetmap.svg" width="14"/> Based in Glasgow, Scotland<br/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" width="14"/> Predictive Systems & Machine Learning Engineering<br/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/chartdotjs.svg" width="14"/> Data-Driven Strategy & Quantitative Analysis
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/analyticalharry/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@AnalyticalHarry">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="18"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/AnalyticalHarry">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="18"/>
-  </a>
+  Based in Glasgow, Scotland<br>
+  Predictive Systems · Quantitative Strategy · Scalable Machine Learning
 </p>
 
 ---
 
 ## About
 
-I design predictive models, construct scalable machine learning systems, and translate high-dimensional datasets into strategic financial and operational insights.
+I analyse large-scale datasets, construct predictive models, and translate complex information into strategic insights that drive measurable outcomes.
 
 My work integrates:
 
@@ -38,30 +28,28 @@ My work integrates:
 - Statistical Modelling  
 - Open-Source Framework Development  
 
-Long-term objective: build intelligent systems that create durable economic and societal impact.
+I am motivated by building intelligent systems that create long-term economic, societal, and environmental impact.
 
 ---
 
-## Open-Source Projects
+## Open-Source Work
 
-### Nalyst (2022) — Machine Learning Library
-
-Lightweight framework for building ML algorithms from scratch.
+### Nalyst (Founded 2022)
+Machine learning library focused on transparent algorithm implementation and modular experimentation.
 
 ```bash
 pip install nalyst
 ```
 
-Core focus:
-- Transparent algorithm design  
-- Modular experimentation  
+Key Focus:
+- Algorithms implemented from scratch  
 - Educational clarity with production awareness  
+- Lightweight and modular design  
 
 ---
 
-### Neurova (2025) — Deep Learning Framework
-
-Scalable architecture for neural network experimentation and custom research workflows.
+### Neurova (Founded 2025)
+Deep learning framework designed for scalable neural architecture experimentation.
 
 ```bash
 pip install neurova
@@ -70,12 +58,12 @@ pip install neurova
 Includes:
 - CNN modules  
 - RNN architectures  
-- Autoencoder systems  
+- Autoencoders  
 - Flexible training pipelines  
 
 ---
 
-## Core Expertise
+## Technical Expertise
 
 ### Machine Learning & Data Science
 
@@ -93,14 +81,15 @@ Includes:
 
 ---
 
-### Quantitative Finance & Asset Management
+### Asset Management & Quantitative Finance
 
 - Portfolio Construction & Asset Allocation  
-- Risk Modelling & Diversification  
+- Quantitative & Trend Analysis  
+- Risk Management & Diversification  
 - Equity & Fixed Income Analysis  
+- Startup Valuation  
 - Options Pricing & Spread Strategies  
 - Financial Forecasting  
-- Startup Valuation  
 - Macro & Market Research  
 
 ---
@@ -130,21 +119,19 @@ Includes:
 
 ---
 
-## Engineering Approach
+## Engineering Philosophy
 
-- Develop algorithms from first principles to ensure conceptual depth  
+- Build core systems from first principles  
 - Prioritise interpretability alongside optimisation  
-- Architect systems for scalability, not just experimentation  
-- Align technical decisions with financial and strategic objectives  
+- Architect for scalability, not just experimentation  
+- Align technical systems with financial and strategic outcomes  
 
 ---
 
 ## Contact
 
-analyticalharry@gmail.com
-
----
+analyticalharry@gmail.com  
 
 <p align="center">
-  Building systems that scale beyond models.
+  Continuous learning. System-level thinking. Scalable impact.
 </p>
