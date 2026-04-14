@@ -22,7 +22,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=2&section=header" width="100%" />
 </div>
 
----
 
 ### ABOUT ME
 
