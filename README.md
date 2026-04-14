@@ -109,31 +109,6 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E90FF&height=1&section=header" width="100%" />
-</div>
-
----
-
-### GITHUB STATISTICS
-
-<div align="center">
-  
-| <img height="160em" src="https://github-readme-stats.vercel.app/api?username=analyticswithharry&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF" /> | <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=analyticswithharry&theme=dark&hide_border=true&background=0A0A0A&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" /> |
-|:---:|:---:|
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=analyticswithharry&theme=github-dark&bg_color=0A0A0A&hide_border=true&area=true&color=1E90FF&line=1E90FF&point=FFFFFF" width="85%" />
-</div>
-
----
-
-### KEY FOCUS AREAS
-
 <div align="center">
 
 | | | |
