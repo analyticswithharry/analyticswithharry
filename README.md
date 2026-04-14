@@ -1,36 +1,40 @@
-<!--
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                    HEMANT THAPA - AI/ML FULL STACK ENGINEER               ║
-║                  Production-Grade Intelligent Systems | LLM Expert        ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+<!---
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                         HEMANT THAPA                                          ║
+║                  AI/ML Full Stack Engineer | LLM Systems                      ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hemant+Thapa;AI%2FML+Full+Stack+Engineer;LLM+Systems+Architect;5%2B+Years+of+Experience;Building+Production-Grade+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=1E90FF&center=true&vCenter=true&width=550&lines=Hemant+Thapa;AI%2FML+Full+Stack+Engineer;LLM+Systems+Architect;5%2B+Years+Experience" alt="Typing SVG" />
   
   <br/>
   
-  <img src="https://img.shields.io/badge/STATUS-BUILDING_INTELLIGENT_SYSTEMS-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/FOCUS-LLM_%7C_RAG_%7C_MLOps-FF6B6B?style=for-the-badge&logo=ai&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-1E90FF?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/FOCUS-LLM_%7C_RAG_%7C_MLOps-1E90FF?style=flat-square&logo=ai&logoColor=white&labelColor=0A0A0A" />
   
-  <br/><br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=120&section=header&text=&fontSize=0" width="100%" />
-  
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=2&section=header" width="100%" />
 </div>
 
 ---
 
-### ABOUT ME
+### ABOUT
 
-Experienced **Software Engineer with 5+ years** delivering complex, large-scale machine learning and data solutions across enterprise and cloud environments. Designed and deployed **LLMs, RAG pipelines, and generative AI systems**, built end-to-end **MLOps workflows**, and led production-ready AI/ML projects that drive measurable business impact.
+Experienced **Software Engineer with 5+ years** delivering large-scale machine learning and data solutions across enterprise and cloud environments. Designed and deployed **LLMs, RAG pipelines, and generative AI systems**, built end-to-end **MLOps workflows**, and led production-ready AI/ML projects.
 
-My work spans **predictive modeling, real-time inference, fraud detection, personalization, and scalable data architectures** — bridging research, engineering, and operational deployment to deliver innovative and reliable solutions.
+My work spans **predictive modeling, real-time inference, fraud detection, personalization, and scalable data architectures** — bridging research, engineering, and operational deployment.
+
+<br/>
 
 <div align="center">
   
-| <img src="https://img.shields.io/badge/Nalyst-ML_Library-FF6B6B?style=flat-square&logo=pypi&logoColor=white" /> | <img src="https://img.shields.io/badge/Neurova-DL_Framework-00F7FF?style=flat-square&logo=pypi&logoColor=white" /> | <img src="https://img.shields.io/badge/AnalyticsWithHarry-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /> | <img src="https://img.shields.io/badge/Mentorship-Book_Session-6C5CE7?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBvbHlsaW5lIHBvaW50cz0iMjIgMTIgMTggMTIgMTUgMjEgOSA5IDYgMTIgMiAxMiI+PC9wb2x5bGluZT48L3N2Zz4=&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-analyticswithharry-181717?style=flat-square&logo=github&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/NALYST-ML_LIBRARY-1E90FF?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" /> | <img src="https://img.shields.io/badge/NEUROVA-DL_FRAMEWORK-1E90FF?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" /> | <img src="https://img.shields.io/badge/YOUTUBE-TUTORIALS-1E90FF?style=flat-square&logo=youtube&logoColor=white&labelColor=0A0A0A" /> | <img src="https://img.shields.io/badge/MENTORSHIP-BOOK_SESSION-1E90FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBvbHlsaW5lIHBvaW50cz0iMjIgMTIgMTggMTIgMTUgMjEgOSA5IDYgMTIgMiAxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+PC9zdmc+&logoColor=white" /> | <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-1E90FF?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0A" /> |
 |:---:|:---:|:---:|:---:|:---:|
 
 </div>
@@ -43,87 +47,91 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 
 **LANGUAGES**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
 
 **MACHINE LEARNING & AI**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBvbHlsaW5lIHBvaW50cz0iMTIgNiAxMiAxMiAxNiAxNCIvPjwvc3ZnPg==&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/SKLEARN-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBOOST-FF6600?style=flat-square&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 
-**LLM & RAG SYSTEMS**
+**LLM & RAG**
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/Milvus-00B4D8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBvbHlsaW5lIHBvaW50cz0iMTIgOCAxMiAxMiAxNiAxNCIvPjwvc3ZnPg==&logoColor=white" />
-<img src="https://img.shields.io/badge/Weaviate-00B4D8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwb2x5Z29uIHBvaW50cz0iMTIgMiAyMiA3IDIyIDE3IDEyIDIyIDIgMTcgMiA3IDEyIDIiLz48bGluZSB4MT0iMTIiIHkxPSIyIiB4Mj0iMTIiIHkyPSIyMiIvPjwvc3ZnPg==&logoColor=white" />
+<img src="https://img.shields.io/badge/OPENAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/PINECONE-000000?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/MILVUS-00B4D8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+PC9zdmc+&logoColor=white" />
 
 **FRONTEND**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/VITE-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 
 **BACKEND & APIs**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-00A86B?style=for-the-badge&logo=grpc&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/GRPC-00A86B?style=flat-square&logo=grpc&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 
 **DATABASES**
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/POSTGRESQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MONGODB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
 **DATA ENGINEERING & MLOPS**
 
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/KAFKA-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/SPARK-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 
 **CLOUD**
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AZURE-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=vercel&logoColor=white" />
 
-**MONITORING & VISUALIZATION**
+**MONITORING**
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/TABLEAU-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/GRAFANA-F46800?style=flat-square&logo=grafana&logoColor=white" />
 
 </div>
 
 ---
 
-### GITHUB STATISTICS
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E90FF&height=1&section=header" width="100%" />
+</div>
+
+---
+
+### STATISTICS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analyticswithharry&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF6B6B" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=analyticswithharry&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00F7FF" />
+  
+| <img height="160em" src="https://github-readme-stats.vercel.app/api?username=analyticswithharry&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF" /> | <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=analyticswithharry&theme=dark&hide_border=true&background=0A0A0A&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" /> |
+|:---:|:---:|
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=analyticswithharry&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F7FF&line=FF6B6B&point=FFFFFF" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=analyticswithharry&theme=github-dark&bg_color=0A0A0A&hide_border=true&area=true&color=1E90FF&line=1E90FF&point=FFFFFF" width="85%" />
 </div>
 
 ---
@@ -131,8 +139,8 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 ### KEY FOCUS AREAS
 
 <div align="center">
-  
-| <img src="https://img.shields.io/badge/LLM_SYSTEMS_&_RAG-00F7FF?style=for-the-badge&logo=openai&logoColor=white" /> | <img src="https://img.shields.io/badge/REAL_TIME_ML_SYSTEMS-FF6B6B?style=for-the-badge&logo=apachekafka&logoColor=white" /> | <img src="https://img.shields.io/badge/FULL_STACK_AI_PRODUCTS-6C5CE7?style=for-the-badge&logo=react&logoColor=white" /> |
+
+| <img src="https://img.shields.io/badge/LLM_SYSTEMS_&_RAG-1E90FF?style=flat-square&logo=openai&logoColor=white&labelColor=0A0A0A" /> | <img src="https://img.shields.io/badge/REAL_TIME_ML_SYSTEMS-1E90FF?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0A0A0A" /> | <img src="https://img.shields.io/badge/FULL_STACK_AI_PRODUCTS-1E90FF?style=flat-square&logo=react&logoColor=white&labelColor=0A0A0A" /> |
 |:---:|:---:|:---:|
 | Agentic Workflows | Fraud Detection | Scalable Web Apps |
 | Context-Aware AI | Anomaly Monitoring | Performance Optimization |
@@ -140,29 +148,48 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 
 </div>
 
+---
 
-### CONNECT
+### EDUCATION & CERTIFICATIONS
 
 <div align="center">
-  
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Mentorship-6C5CE7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBvbHlsaW5lIHBvaW50cz0iMjIgMTIgMTggMTIgMTUgMjEgOSA5IDYgMTIgMiAxMiI+PC9wb2x5bGluZT48L3N2Zz4=&logoColor=white" />
 
-**analyticalharry@gmail.com**
+| EDUCATION | CERTIFICATIONS |
+|:---:|:---:|
+| **B.E. (Hons) Mechanical Engineering** | **Mathematics for ML & Data Science** |
+| University of the West of Scotland | DeepLearning.AI |
+| **Data Science Bootcamp** (UK Government Funded) | **Improving Deep Neural Networks** |
+| **Ranked Top 10 / 238** | DeepLearning.AI |
 
 </div>
 
 ---
 
+### CONNECT
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=80&section=footer&text=&fontSize=0" width="100%" />
   
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/MENTORSHIP-6C5CE7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBvbHlsaW5lIHBvaW50cz0iMjIgMTIgMTggMTIgMTUgMjEgOSA5IDYgMTIgMiAxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+PC9zdmc+&logoColor=white&labelColor=0A0A0A" />
+
+<br/>
+
+**analyticalharry@gmail.com**
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=2&section=header" width="100%" />
+</div>
+
+<div align="center">
+  <br/>
   <b>Building intelligent systems that matter.</b>
-  
   <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=analyticswithharry&label=PROFILE_VIEWS&color=00F7FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=analyticswithharry&label=PROFILE_VIEWS&color=1E90FF&style=flat-square&labelColor=0A0A0A" />
 </div>
