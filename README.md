@@ -18,7 +18,14 @@
 
 <br/>
 
-
+<!-- COVER IMAGE ADDED HERE -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/analyticswithharry/analyticswithharry/refs/heads/main/media_team.jpg.jfif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/analyticswithharry/analyticswithharry/refs/heads/main/media_team.jpg.jfif">
+    <img src="https://raw.githubusercontent.com/analyticswithharry/analyticswithharry/refs/heads/main/media_team.jpg.jfif" alt="Hemant Thapa Cover Image" width="100%" />
+  </picture>
+</p>
 
 ### ABOUT ME
 
