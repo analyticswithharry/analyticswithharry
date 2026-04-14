@@ -38,6 +38,7 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 <div align="center">
   
 | <a href="https://pypi.org/project/nalyst/"><img src="https://img.shields.io/badge/NALYST-ML_LIBRARY-1E90FF?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" /></a> | <a href="https://pypi.org/project/neurova/"><img src="https://img.shields.io/badge/NEUROVA-DL_FRAMEWORK-1E90FF?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" /></a> | <a href="https://www.youtube.com/@analyticswithharry"><img src="https://img.shields.io/badge/YOUTUBE-TUTORIALS-1E90FF?style=flat-square&logo=youtube&logoColor=white&labelColor=0A0A0A" /></a> | <a href="https://topmate.io/hemantthapa"><img src="https://img.shields.io/badge/MENTORSHIP-BOOK_SESSION-1E90FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBvbHlsaW5lIHBvaW50cz0iMjIgMTIgMTggMTIgMTUgMjEgOSA5IDYgMTIgMiAxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+PC9zdmc+&logoColor=white" /></a> | <a href="https://github.com/analyticswithharry"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-1E90FF?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0A" /></a> |
+|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -137,7 +138,7 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 
 <br/><br/>
 
-**analyticalharry@gmail.com**
+**hemantthapa1998@gmail.com**
 
 </div>
 
@@ -149,7 +150,7 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 
 <div align="center">
   <br/>
-  <b>Building intelligent systems that matter.</b>
+  <b>Building intelligent systems that matter</b>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=analyticswithharry&label=PROFILE_VIEWS&color=1E90FF&style=flat-square&labelColor=0A0A0A" />
 </div>
