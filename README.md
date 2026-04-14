@@ -119,23 +119,6 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 
 </div>
 
----
-
-### EDUCATION & CERTIFICATIONS
-
-<div align="center">
-
-| EDUCATION | CERTIFICATIONS |
-|:---:|:---:|
-| **B.E. (Hons) Mechanical Engineering** | **Mathematics for ML & Data Science** — DeepLearning.AI |
-| University of the West of Scotland | **Improving Deep Neural Networks** — DeepLearning.AI |
-| **Data Science Bootcamp** (UK Government Funded) | |
-| **Ranked Top 10 / 238** | |
-
-</div>
-
----
-
 ### CONNECT
 
 <div align="center">
