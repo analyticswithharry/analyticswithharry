@@ -18,9 +18,8 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=2&section=header" width="100%" />
-</div>
+
+
 ### ABOUT ME
 
 Experienced **Software Engineer with 5+ years** delivering large-scale machine learning and data solutions across enterprise and cloud environments. Designed and deployed **LLMs, RAG pipelines, and generative AI systems**, built end-to-end **MLOps workflows**, and led production-ready AI/ML projects.
