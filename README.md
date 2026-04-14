@@ -1,5 +1,22 @@
-I am Hemant Thapa, an AI/ML Full Stack Engineer and Co-Founder, CTO & CFO at Costrick Ltd, with over 5 years of experience building production-grade machine learning and data solutions across enterprise and cloud environments. I specialize in designing and deploying end-to-end intelligent systems including LLMs, advanced RAG pipelines, generative AI applications, real-time inference engines, fraud detection, personalization systems, and scalable MLOps workflows that deliver measurable business impact. 
+# Hemant Thapa
 
-With strong full-stack expertise, I develop modern web applications using React, Next.js, Node.js, TypeScript, and Go, while also creating robust data engineering pipelines with Kafka, Spark, Flink, and Airflow. I am the author of two popular Python libraries — Neurova (for image processing, computer vision, and deep learning) and Nalyst (for machine learning) — and actively share knowledge through YouTube tutorials, student mentorship, and open-source contributions on GitHub. 
+**AI/ML Full Stack Engineer | Co-Founder, CTO & CFO @ Costrick Ltd**
 
-My background in Mechanical Engineering combined with a UK Government-funded Data Science Bootcamp (ranked 7/238) allows me to bridge theoretical concepts with practical, production-ready solutions across predictive modeling, real-time decisioning, and AI-powered products.
+---
+
+### About Me
+
+Experienced Software Engineer with 5+ years of delivering complex, large-scale machine learning and data solutions across enterprise and cloud environments. Designed and deployed LLMs, RAG pipelines, and generative AI systems, built end-to-end MLOps workflows, and led production-ready AI/ML projects that drive measurable business impact. My work spans predictive modeling, real-time inference, and scalable data architectures, bridging research, engineering, and operational deployment to deliver innovative and reliable solutions.
+
+**My complete tech stack and skills include:** Python, Go, TypeScript, JavaScript, SQL, R, PyTorch, TensorFlow, Scikit-learn, XGBoost, LLMs, RAG, LangChain, LlamaIndex, LangGraph, vector databases (FAISS, Pinecone, Milvus, Weaviate), React, Next.js, Vite, Tailwind CSS, React Router, Node.js, Express, REST APIs, gRPC, JWT authentication, PostgreSQL, MySQL, MongoDB, SQLite, Prisma ORM, Kafka, Spark, Flink, Airflow, Kubeflow, Docker, Kubernetes, CI/CD, AWS, Azure, GCP, Vercel, Tableau, SHAP/LIME, Prometheus, CloudWatch, and microservices architecture.
+
+**Featured Projects:**  
+- **Neurova** — Unified Python framework for image processing, computer vision, ML, and deep learning → `pip install neurova`  
+- **Nalyst** — Comprehensive ML library built from scratch  
+
+**Links:**  
+GitHub · YouTube · PyPI/Neurova · PyPI/Nalyst · Mentorship
+
+**Contact:** analyticalharry@gmail.com
+
+Building production-grade AI systems that deliver real impact.
