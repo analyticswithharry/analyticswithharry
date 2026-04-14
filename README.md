@@ -29,7 +29,7 @@
 
 ### ABOUT ME
 
-Experienced **Software Engineer with 5+ years** delivering large-scale machine learning and data solutions across enterprise and cloud environments. Designed and deployed **LLMs, RAG pipelines, and generative AI systems**, built end-to-end **MLOps workflows**, and led production-ready AI/ML projects.
+Experienced **Engineer with 5+ years** delivering large-scale machine learning and data solutions across enterprise and cloud environments. Designed and deployed **LLMs, RAG pipelines, and generative AI systems**, built end-to-end **MLOps workflows**, and led production-ready AI/ML projects.
 
 My work spans **predictive modeling, real-time inference, fraud detection, personalization, and scalable data architectures** — bridging research, engineering, and operational deployment.
 
