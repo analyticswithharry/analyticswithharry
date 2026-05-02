@@ -41,7 +41,9 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 |:---:|:---:|:---:|:---:|:---:|
 
 </div>
+<a href="https://www.npmjs.com/package/jwt-scg"> <img src="https://img.shields.io/badge/JWT_SCG-NPM_PACKAGE-1E90FF?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" /> </a> <a href="http://socket.dev/npm/package/jwt-scg"> <img src="https://img.shields.io/badge/ANALYSIS-SOCKET.DEV-1E90FF?style=flat-square&logo=security&logoColor=white&labelColor=0A0A0A" /> </a>
 
+JWT-SCG: Lightweight JWT security utilities for secure authentication workflows, token validation, and production-grade API protection.
 ---
 
 ### TECH STACK
