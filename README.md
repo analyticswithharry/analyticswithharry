@@ -36,28 +36,35 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 <br/>
 
 <div align="center">
-  
-| <a href="https://pypi.org/project/nalyst/"><img src="https://img.shields.io/badge/NALYST-ML_LIBRARY-1E90FF?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" /></a> | <a href="https://pypi.org/project/neurova/"><img src="https://img.shields.io/badge/NEUROVA-DL_FRAMEWORK-1E90FF?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" /></a> | <a href="https://www.youtube.com/@analyticswithharry"><img src="https://img.shields.io/badge/YOUTUBE-TUTORIALS-1E90FF?style=flat-square&logo=youtube&logoColor=white&labelColor=0A0A0A" /></a> | <a href="https://www.npmjs.com/package/crypto-gate"><img src="https://www.npmjs.com/package/crypto-gate" /></a> | <a href="https://github.com/analyticswithharry"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-1E90FF?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0A" /></a> |
-|:---:|:---:|:---:|:---:|:---:|
 
-</div>
+<a href="https://pypi.org/project/nalyst/">
+  <img src="https://img.shields.io/badge/Nalyst-ML_Library-1E90FF?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://pypi.org/project/neurova/">
+  <img src="https://img.shields.io/badge/Neurova-DL_Framework-1E90FF?style=flat-square&logo=pytorch&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://www.youtube.com/@analyticswithharry">
+  <img src="https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://www.npmjs.com/package/crypto-gate">
+  <img src="https://img.shields.io/badge/Crypto--Gate-NPM_Package-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://www.npmjs.com/package/jwt-scg">
+  <img src="https://img.shields.io/badge/JWT--SCG-NPM_Package-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="http://socket.dev/npm/package/jwt-scg">
+  <img src="https://img.shields.io/badge/Security-Analysis-3CB371?style=flat-square&logo=shield&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://pypi.org/project/scg-jwt-token/">
+  <img src="https://img.shields.io/badge/SCG_JWT_Token-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://topmate.io/hemantthapa">
+  <img src="https://img.shields.io/badge/Mentorship-Book_Session-1E90FF?style=flat-square&logo=bookstack&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://github.com/analyticswithharry">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0A" />
+</a>
 
-<div align="center">
- <a href="https://www.npmjs.com/package/jwt-scg">
-    <img src="https://img.shields.io/badge/JWT_SCG-NPM_PACKAGE-1E90FF?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" />
-  </a> 
- <a href="http://socket.dev/npm/package/jwt-scg">
-    <img src="https://img.shields.io/badge/ANALYSIS-SOCKET.DEV-1E90FF?style=flat-square&logo=security&logoColor=white&labelColor=0A0A0A" />
-  </a> 
- <a href="https://pypi.org/project/scg-jwt-token/">
-    <img src="https://img.shields.io/badge/PYPI-SCG_JWT_TOKEN-3775A9?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" />
-  </a> 
- <a href="https://topmate.io/hemantthapa">
-    <img src="https://img.shields.io/badge/MENTORSHIP-BOOK_SESSION-1E90FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBvbHlsaW5lIHBvaW50cz0iMjIgMTIgMTggMTIgMTUgMjEgOSA5IDYgMTIgMiAxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+PC9zdmc+&logoColor=white" />
-  </a> 
- <a href="https://github.com/analyticswithharry">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-1E90FF?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0A" />
-  </a> 
 </div>
 
 ### TECH STACK
