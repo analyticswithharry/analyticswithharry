@@ -43,21 +43,21 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 </div>
 
 <div align="center">
-| <a href="https://www.npmjs.com/package/jwt-scg">
+ <a href="https://www.npmjs.com/package/jwt-scg">
     <img src="https://img.shields.io/badge/JWT_SCG-NPM_PACKAGE-1E90FF?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" />
   </a> 
-| <a href="http://socket.dev/npm/package/jwt-scg">
+ <a href="http://socket.dev/npm/package/jwt-scg">
     <img src="https://img.shields.io/badge/ANALYSIS-SOCKET.DEV-1E90FF?style=flat-square&logo=security&logoColor=white&labelColor=0A0A0A" />
   </a> 
-| <a href="https://pypi.org/project/scg-jwt-token/">
+ <a href="https://pypi.org/project/scg-jwt-token/">
     <img src="https://img.shields.io/badge/PYPI-SCG_JWT_TOKEN-3775A9?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" />
   </a> 
-| <a href="https://topmate.io/hemantthapa">
+ <a href="https://topmate.io/hemantthapa">
     <img src="https://img.shields.io/badge/MENTORSHIP-BOOK_SESSION-1E90FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBvbHlsaW5lIHBvaW50cz0iMjIgMTIgMTggMTIgMTUgMjEgOSA5IDYgMTIgMiAxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+PC9zdmc+&logoColor=white" />
   </a> 
-| <a href="https://github.com/analyticswithharry">
+ <a href="https://github.com/analyticswithharry">
     <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-1E90FF?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0A" />
-  </a> |
+  </a> 
 </div>
 
 ### TECH STACK
