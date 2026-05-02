@@ -43,7 +43,6 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 </div>
 
 <div align="center">
-  
 | <a href="https://www.npmjs.com/package/jwt-scg">
     <img src="https://img.shields.io/badge/JWT_SCG-NPM_PACKAGE-1E90FF?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" />
   </a> 
@@ -59,8 +58,6 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 | <a href="https://github.com/analyticswithharry">
     <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-1E90FF?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0A" />
   </a> |
-|:---:|:---:|:---:|:---:|:---:|
-
 </div>
 
 ### TECH STACK
