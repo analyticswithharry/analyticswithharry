@@ -49,6 +49,9 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 <a href="https://www.npmjs.com/package/crypto-gate">
   <img src="https://img.shields.io/badge/Crypto--Gate-NPM_Package-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" />
 </a>
+<a href="https://pypi.org/project/crypto-gate/1.0.1/">
+  <img src="https://img.shields.io/badge/Crypto--Gate-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" />
+</a>
 <a href="https://www.npmjs.com/package/jwt-scg">
   <img src="https://img.shields.io/badge/JWT--SCG-NPM_Package-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" />
 </a>
