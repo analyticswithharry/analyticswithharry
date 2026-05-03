@@ -34,7 +34,6 @@ Experienced **Engineer with 5+ years** delivering large-scale machine learning a
 My work spans **predictive modeling, real-time inference, fraud detection, personalisation, and scalable data architectures** — bridging research, engineering, and operational deployment.
 
 <br/>
-
 <div align="center">
 
 <a href="https://pypi.org/project/nalyst/">
@@ -46,12 +45,16 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 <a href="https://www.youtube.com/@analyticswithharry">
   <img src="https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=0A0A0A" />
 </a>
+
+<!-- Crypto Gate -->
 <a href="https://www.npmjs.com/package/crypto-gate">
   <img src="https://img.shields.io/badge/Crypto--Gate-NPM_Package-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" />
 </a>
 <a href="https://pypi.org/project/crypto-gate/1.0.1/">
   <img src="https://img.shields.io/badge/Crypto--Gate-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" />
 </a>
+
+<!-- JWT SCG -->
 <a href="https://www.npmjs.com/package/jwt-scg">
   <img src="https://img.shields.io/badge/JWT--SCG-NPM_Package-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" />
 </a>
@@ -61,6 +64,19 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 <a href="https://pypi.org/project/scg-jwt-token/">
   <img src="https://img.shields.io/badge/SCG_JWT_Token-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" />
 </a>
+
+<!-- SCG Auth (NEW) -->
+<a href="https://www.npmjs.com/package/scg-auth">
+  <img src="https://img.shields.io/badge/SCG--Auth-NPM_Package-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://analyticswithharry.github.io/scg-auth/">
+  <img src="https://img.shields.io/badge/SCG--Auth-Docs-0A66C2?style=flat-square&logo=readthedocs&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://pypi.org/project/scg-auth/1.0.0/">
+  <img src="https://img.shields.io/badge/SCG--Auth-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white&labelColor=0A0A0A" />
+</a>
+
+<!-- Extras -->
 <a href="https://topmate.io/hemantthapa">
   <img src="https://img.shields.io/badge/Mentorship-Book_Session-1E90FF?style=flat-square&logo=bookstack&logoColor=white&labelColor=0A0A0A" />
 </a>
