@@ -80,9 +80,6 @@ My work spans **predictive modeling, real-time inference, fraud detection, perso
 <a href="https://topmate.io/hemantthapa">
   <img src="https://img.shields.io/badge/Mentorship-Book_Session-1E90FF?style=flat-square&logo=bookstack&logoColor=white&labelColor=0A0A0A" />
 </a>
-<a href="https://github.com/analyticswithharry">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white&labelColor=0A0A0A" />
-</a>
 
 </div>
 
