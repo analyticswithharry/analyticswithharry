@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=1E90FF&center=true&vCenter=true&width=550&lines=Hemant+Kumar+Thapa;AI%2FML+Full+Stack+Engineer;LLM+Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=1E90FF&center=true&vCenter=true&width=550&lines=Hemant+Thapa;AI%2FML+Full+Stack+Developer;LLM+Systems+Architect" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -24,7 +24,7 @@
 
 ### About Me
 
-Results-driven **AI/ML Full Stack Engineer** with **5+ years** of experience designing and deploying scalable machine learning systems, LLM-powered applications, and production-grade full-stack solutions.
+Results-driven **Full Stack Developer** with **5+ years** of experience designing and deploying scalable machine learning systems, LLM-powered applications, and production-grade full-stack solutions.
 
 Expertise spans **LLM architectures**, **RAG pipelines**, **MLOps workflows**, and end-to-end AI system development — bridging research, engineering, and business impact.
 
