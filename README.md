@@ -1,7 +1,7 @@
 <!--
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║                          HEMANT KUMAR THAPA                                   ║
-║                  AI/ML Full Stack Engineer | LLM Systems                      ║
+║ HEMANT KUMAR THAPA ║
+║ AI/ML Full Stack Engineer | LLM Systems ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -24,9 +24,19 @@
 
 ### About Me
 
-Results-driven **Full Stack Developer** with **5+ years** of experience designing and deploying scalable machine learning systems, LLM-powered applications, and production-grade full-stack solutions.
+Results-driven **AI/ML Full Stack Engineer** with **5+ years** of experience designing and deploying scalable machine learning systems, LLM-powered applications, and production-grade full-stack solutions.
 
 Expertise spans **LLM architectures**, **RAG pipelines**, **MLOps workflows**, and end-to-end AI system development — bridging research, engineering, and business impact.
+
+---
+
+### Developed Open Source Tools
+
+- **Nalyst** — Comprehensive Machine Learning Library (PyPI)
+- **Neurova** — Deep Learning Framework (PyPI)
+- **SCG Auth** — Secure Authentication & JWT Library (NPM & PyPI)
+- **Crypto Gate** — Cryptography & Security Utilities (NPM & PyPI)
+- **JWT SCG** — Advanced JWT Security Library
 
 ---
 
