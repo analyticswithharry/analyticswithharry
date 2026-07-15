@@ -30,13 +30,16 @@ Expertise spans **LLM architectures**, **RAG pipelines**, **MLOps workflows**, a
 
 ---
 
-### Developed Open Source Tools
+### Open Source Projects & Tools
 
-- **Nalyst** — Comprehensive Machine Learning Library (PyPI)
-- **Neurova** — Deep Learning Framework (NPM & PyPI)
-- **SCG Auth** — Secure Authentication & JWT Library (NPM & PyPI)
-- **Crypto Gate** — Cryptography & Security Utilities (NPM & PyPI)
-- **JWT SCG** — Advanced JWT Security Library
+- **[Embrix](https://www.npmjs.com/package/embrix)** — Local-first AI toolkit for vector search, agents, RAG, and workflows
+- **[Neurova](https://www.npmjs.com/package/neurova)** — Complete TypeScript AI framework (UI + Backend + AI)
+- **[Nalyst](https://pypi.org/project/nalyst/)** — Full-stack machine learning & AutoML toolkit
+- **[Algorithm-stat](https://pypi.org/project/algorithm-stat/)** — Unified quantitative finance & backtesting toolkit
+- **[SCG Auth](https://www.npmjs.com/package/scg-auth)** — Lightweight OAuth2 + JWT authentication library
+- **[Crypto Gate](https://www.npmjs.com/package/crypto-gate)** — Zero-dependency cryptographic toolkit
+- **[SCG Lab](https://pypi.org/project/scg-lab/)** — Multi-language interactive notebook environment
+- **[JWT SCG](https://www.npmjs.com/package/jwt-scg)** — Secure & universal JWT library
 
 ---
 
