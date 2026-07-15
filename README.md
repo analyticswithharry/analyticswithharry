@@ -41,6 +41,10 @@ Expertise spans **LLM architectures**, **RAG pipelines**, **MLOps workflows**, a
 - **[SCG Lab](https://pypi.org/project/scg-lab/)** — Multi-language interactive notebook environment
 - **[JWT SCG](https://www.npmjs.com/package/jwt-scg)** — Secure & universal JWT library
 
+**All Packages:**  
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/harryworld/)  
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~analyticswithharry)
+
 ---
 
 ### Technical Expertise
