@@ -33,7 +33,7 @@ Expertise spans **LLM architectures**, **RAG pipelines**, **MLOps workflows**, a
 ### Developed Open Source Tools
 
 - **Nalyst** — Comprehensive Machine Learning Library (PyPI)
-- **Neurova** — Deep Learning Framework (PyPI)
+- **Neurova** — Deep Learning Framework (NPM & PyPI)
 - **SCG Auth** — Secure Authentication & JWT Library (NPM & PyPI)
 - **Crypto Gate** — Cryptography & Security Utilities (NPM & PyPI)
 - **JWT SCG** — Advanced JWT Security Library
