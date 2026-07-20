@@ -19,7 +19,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/analyticswithharry/analyticswithharry/refs/heads/main/media_team.jpg.jfif" alt="Cover Image" width="100%" />
+  <img src="https://github.com/analyticswithharry/analyticswithharry/blob/main/background_cover.jpg" alt="Cover Image" width="100%" />
 </p>
 
 ### About Me
