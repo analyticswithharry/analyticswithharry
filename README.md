@@ -16,7 +16,7 @@
 
 </div>
 
----
+<img src="img/hero/hero-slide-4.jpg" width="100%" alt="Hemant Thapa cover" />
 
 ## The Manifest
 
