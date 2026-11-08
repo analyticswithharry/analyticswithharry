@@ -21,6 +21,7 @@ I'm a **Full Stack Web Developer and AI Engineer** with **5+ years** of experien
 
 ## What I Do
 | | |
+|---|---|
 | **Full Stack Web Development** | React, Next.js, TypeScript, Node/Express, Prisma, PostgreSQL, MySQL, Stripe, REST and gRPC APIs |
 | **LLM & Agentic Systems** | LangChain and LangGraph agents, tool calling, memory, guardrails, evaluation |
 | **RAG Pipelines** | Chunking, hybrid search, reranking, Pinecone / FAISS / Milvus / Weaviate |
