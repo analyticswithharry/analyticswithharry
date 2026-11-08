@@ -29,8 +29,8 @@ jobs:
           files = sorted(glob.glob("img/hero/hero-slide-*.jpg"), key=num)
           print("Slides:", files)
 
-          W, H = 1200, 400
-          HOLD_MS, FADE_STEPS, FADE_MS = 3000, 12, 60
+          W, H = 1000, 333
+          HOLD_MS, FADE_STEPS, FADE_MS = 2000, 10, 60
 
           slides = [
               ImageOps.fit(Image.open(f).convert("RGB"), (W, H),
