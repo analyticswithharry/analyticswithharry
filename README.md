@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1500&pause=1500&color=1E90FF&center=true&vCenter=true&width=700&height=50&lines=Hi,+I'm+Hemant+Kumar+Thapa;Full+Stack+Web+Developer+%26+AI+Engineer;Large+Language+Models+(LLM);Retrieval+Augmented+Generation+(RAG)+&+Backend+Engineer;Agentic+Workflows;Machine+Learning+Operations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1500&pause=1500&color=1E90FF&center=true&vCenter=true&width=700&height=50&lines=Hi,+I'm+Hemant+Kumar+Thapa;Full+Stack+Web+Developer+%26+AI+Engineer;Large+Language+Models+(LLM);Retrieval+Augmented+Generation+(RAG)+Backend+Engineer;Agentic+Workflows;Machine+Learning+Operations" alt="Typing SVG" />
 
 <div align="center">
 
