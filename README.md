@@ -19,7 +19,7 @@
 <br/>
 
 
-**AI/ML Full Stack Engineer** with **5+ years** of experience designing and deploying scalable machine learning systems, LLM-powered applications, and production-grade full-stack solutions.
+**Full Stack Developer** with **5+ years** of experience designing and deploying scalable web application, machine learning systems, Large Language Model applications, and production grade solutions.
 
 Expertise spans **LLM architectures**, **RAG pipelines**, **MLOps workflows**, and end-to-end AI system development — bridging research, engineering, and business impact.
 
@@ -53,7 +53,7 @@ PyTorch • TensorFlow • LangChain • scikit-learn • XGBoost
 **LLM & RAG:**  
 OpenAI • FAISS • Pinecone • Milvus
 
-**Full Stack:**  
+**Full Stack Development:**  
 **Frontend:** React • Next.js • Tailwind CSS  
 **Backend:** Node.js • Express • gRPC  
 **Databases:** PostgreSQL • MongoDB • MySQL
