@@ -40,17 +40,21 @@ I'm a **Full Stack Web Developer and AI Engineer** with **5+ years** of experien
 
 ## Open Source Projects
 
-| Project | Description | Links |
+| Project | Description | Install |
 |---|---|---|
-| **[Nalyst](https://pypi.org/project/nalyst/)** | Full-stack ML, statistics, time-series and deep learning toolkit with AutoML and explainability | [PyPI](https://pypi.org/project/nalyst/) |
-| **[Neurova (JS)](https://www.npmjs.com/package/neurova)** | Unified TypeScript framework for UI, backend and AI | [npm](https://www.npmjs.com/package/neurova) |
-| **[Neurova (Python)](https://pypi.org/project/neurova/)** | Computer vision and deep learning toolkit with GPU acceleration | [PyPI](https://pypi.org/project/neurova/) |
-| **[Embrix](https://www.npmjs.com/package/embrix)** | Local-first AI toolkit for vector search, agents, RAG and workflows | [npm](https://www.npmjs.com/package/embrix) |
-| **[SCG Lab](https://pypi.org/project/scg-lab/)** | Browser-based notebook environment (React/Monaco + FastAPI + Jupyter) that runs locally | [PyPI](https://pypi.org/project/scg-lab/) |
-| **[Algorithm-stat](https://pypi.org/project/algorithm-stat/)** | Quant finance toolkit: backtesting, Monte Carlo, options, paper trading | [PyPI](https://pypi.org/project/algorithm-stat/) |
-| **[SCG Auth](https://www.npmjs.com/package/scg-auth)** | Zero-dependency OAuth 2.0 client with PKCE and CSRF protection | [npm](https://www.npmjs.com/package/scg-auth) · [PyPI](https://pypi.org/project/scg-auth/) |
-| **[Crypto Gate](https://www.npmjs.com/package/crypto-gate)** | Hashing, encryption, signatures, key derivation and secure tokens | [npm](https://www.npmjs.com/package/crypto-gate) · [PyPI](https://pypi.org/project/crypto-gate/) |
-| **[JWT SCG](https://www.npmjs.com/package/jwt-scg)** | Simple, secure and universal JWT library | [npm](https://www.npmjs.com/package/jwt-scg) · [PyPI](https://pypi.org/project/scg-jwt-token/) |
+| **[Nalyst](https://pypi.org/project/nalyst/)** | Full-stack ML, statistics, time-series and deep learning toolkit with AutoML and explainability | [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/nalyst/) |
+| **[Neurova (JS)](https://www.npmjs.com/package/neurova)** | Unified TypeScript framework for UI, backend and AI | [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/neurova) |
+| **[Neurova (Python)](https://pypi.org/project/neurova/)** | Computer vision and deep learning toolkit with GPU acceleration | [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/neurova/) |
+| **[Embrix](https://www.npmjs.com/package/embrix)** | Local-first AI toolkit for vector search, agents, RAG and workflows | [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/embrix) |
+| **[SCG Lab](https://pypi.org/project/scg-lab/)** | Browser-based notebook environment (React/Monaco + FastAPI + Jupyter) that runs locally | [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/scg-lab/) |
+| **[Algorithm-stat](https://pypi.org/project/algorithm-stat/)** | Quant finance toolkit: backtesting, Monte Carlo, options, paper trading | [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/algorithm-stat/) |
+| **[SCG Auth](https://www.npmjs.com/package/scg-auth)** | Zero-dependency OAuth 2.0 client with PKCE and CSRF protection | [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/scg-auth) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/scg-auth/) |
+| **[Crypto Gate](https://www.npmjs.com/package/crypto-gate)** | Hashing, encryption, signatures, key derivation and secure tokens | [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/crypto-gate) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/crypto-gate/) |
+| **[JWT SCG](https://www.npmjs.com/package/jwt-scg)** | Simple, secure and universal JWT library | [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/jwt-scg) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/scg-jwt-token/) |
+
+**All packages:**
+[![PyPI](https://img.shields.io/badge/PyPI-All_packages-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/harryworld/)
+[![npm](https://img.shields.io/badge/npm-All_packages-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~analyticswithharry)
 
 **Live products:** [AI Job Tracking](https://www.aijobtracking.com) · [SCG Bot Services](https://www.scgbotservices.com) · [Intrapreneurial AI](https://intrapreneurialai.com/)
 
@@ -82,7 +86,14 @@ I'm a **Full Stack Web Developer and AI Engineer** with **5+ years** of experien
 
 **Data and Monitoring**
 
-![Data](https://skillicons.dev/icons?i=kafka,spark,airflow,grafana,prometheus&theme=dark)
+![Kafka and monitoring](https://skillicons.dev/icons?i=kafka,grafana,prometheus&theme=dark)
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
 ---
 
@@ -96,6 +107,8 @@ I'm a **Full Stack Web Developer and AI Engineer** with **5+ years** of experien
 <img src="https://streak-stats.demolab.com?user=analyticswithharry&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
 
 ## Let's Connect
 
