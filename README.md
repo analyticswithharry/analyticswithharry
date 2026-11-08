@@ -7,8 +7,6 @@
 
 <img src="img/hero/hero-slide-4.jpg" width="100%" alt="Hemant Thapa cover" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1500&pause=1500&color=1E90FF&center=true&vCenter=true&width=700&height=50&lines=Hi,+I'm+Hemant+Thapa;Full+Stack+Web+Developer+%26+AI+Engineer;Large+Language+Models+(LLM);Retrieval+Augmented+Generation+(RAG);Agentic+Workflows;Machine+Learning+Operations" alt="Typing SVG" />
-
 **Building intelligent systems that matter.**
 
 [![Blog](https://img.shields.io/badge/Blog-www.analyticswithharry.com-1E90FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.analyticswithharry.com)
