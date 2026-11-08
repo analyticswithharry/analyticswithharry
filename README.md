@@ -93,9 +93,3 @@ I'm open to work at **full stack web products, LLM systems, RAG and MLOps**. The
 <div align="center">
 
 </div>
-
-## Commit Activity
-
-<div align="center">
-  <img src="assets/commit-trend.png" alt="Weekly commit scatter plot with polynomial regression" width="100%" />
-</div>
