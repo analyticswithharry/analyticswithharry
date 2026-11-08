@@ -7,7 +7,7 @@
 
 **Building intelligent systems that matter.**
 
-<img src="assets/hero-slideshow.gif" width="80%" alt="Hemant Thapa cover slideshow" />
+<img src="assets/hero-slideshow.gif" width="90%" height="50%" alt="Hemant Thapa cover slideshow" />
 
 [![Blog](https://img.shields.io/badge/Blog-www.analyticswithharry.com-1E90FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.analyticswithharry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thapahemant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thapahemant)
