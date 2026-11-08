@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Hemant+Thapa;Full+Stack+Web+Developer+%26+AI+Engineer;LLM+%7C+RAG+%7C+Agentic+Workflows+%7C+MLOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=3000&color=1E90FF&center=true&vCenter=true&width=700&height=50&lines=Hi,+I'm+Hemant+Thapa;Full+Stack+Web+Developer+%26+AI+Engineer;Large+Language+Models;Retrieval-Augmented+Generation;Agentic+Workflows;Machine+Learning+Operations" alt="Typing SVG" />
 
 **Building intelligent systems that matter.**
 
