@@ -5,9 +5,9 @@
 
 <div align="center">
 
-<img src="img/hero/hero-slide-4.jpg" width="100%" alt="Hemant Thapa cover" />
-
 **Building intelligent systems that matter.**
+
+<img src="img/hero/hero-slide-4.jpg" width="100%" alt="Hemant Thapa cover" />
 
 [![Blog](https://img.shields.io/badge/Blog-www.analyticswithharry.com-1E90FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.analyticswithharry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thapahemant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thapahemant)
