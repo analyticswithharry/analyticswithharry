@@ -7,16 +7,7 @@
 
 **Building intelligent systems that matter.**
 
-<p align="center">
-  <img src="img/hero/hero-slide-2.jpg" width="32%" alt="Slide 2" />
-  <img src="img/hero/hero-slide-4.jpg" width="32%" alt="Slide 4" />
-  <img src="img/hero/hero-slide-5.jpg" width="32%" alt="Slide 5" />
-</p>
-<p align="center">
-  <img src="img/hero/hero-slide-6.jpg" width="32%" alt="Slide 6" />
-  <img src="img/hero/hero-slide-7.jpg" width="32%" alt="Slide 7" />
-  <img src="img/hero/hero-slide-8.jpg" width="32%" alt="Slide 8" />
-</p>
+<img src="assets/hero-slideshow.gif" width="100%" alt="Hemant Thapa cover slideshow" />
 
 [![Blog](https://img.shields.io/badge/Blog-www.analyticswithharry.com-1E90FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.analyticswithharry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thapahemant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thapahemant)
