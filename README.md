@@ -87,14 +87,9 @@ I'm a **Full Stack Web Developer and AI Engineer** with **5+ years** of experien
 ![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
-## Let's Connect
 
-I'm open to collaboration on **full stack web products, LLM systems, RAG and MLOps**. The best way to reach me is through my [blog](https://www.analyticswithharry.com), [LinkedIn](https://linkedin.com/in/thapahemant) or [email](mailto:hemantthapa1998@gmail.com).
+I'm open to work at **full stack web products, LLM systems, RAG and MLOps**. The best way to reach me is through my [blog](https://www.analyticswithharry.com), [LinkedIn](https://linkedin.com/in/thapahemant) or [email](mailto:hemantthapa1998@gmail.com).
 
 <div align="center">
-
-*If you find any of my packages useful, a star means a lot.*
-
-<img src="https://komarev.com/ghpvc/?username=analyticswithharry&label=PROFILE+VIEWS&color=1E90FF&style=flat-square" />
 
 </div>
