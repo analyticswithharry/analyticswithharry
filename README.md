@@ -21,7 +21,7 @@
 
 **Full Stack Developer** with **5+ years** of experience designing and deploying scalable web application, machine learning systems, Large Language Model applications, and production grade solutions.
 
-Expertise spans **LLM architectures**, **RAG pipelines**, **MLOps workflows**, and end-to-end AI system development — bridging research, engineering, and business impact.
+Expertise in **LLM architectures**, **RAG pipelines**, **MLOps workflows**, and end-to-end AI system development, bridging research, engineering, and business impact.
 
 ---
 
