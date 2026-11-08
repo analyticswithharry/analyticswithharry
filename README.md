@@ -5,7 +5,7 @@
 
 **Building intelligent systems that matter.**
 
-[![Blog](https://img.shields.io/badge/Blog-analyticswithharry.com-1E90FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.analyticswithharry.com)
+[![Blog](https://img.shields.io/badge/Blog-www.analyticswithharry.com-1E90FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.analyticswithharry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thapahemant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thapahemant)
 [![YouTube](https://img.shields.io/badge/YouTube-analyticswithharry-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@analyticswithharry)
 [![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantthapa1998@gmail.com)
