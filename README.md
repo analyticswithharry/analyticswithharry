@@ -17,10 +17,6 @@
 
 I'm a **Full Stack Web Developer and AI Engineer** with **5+ years** of experience building scalable web applications, machine learning systems and production-grade LLM solutions. I work across the whole stack, from React frontends and Node/Go microservices to RAG pipelines, agent workflows and MLOps on the cloud.
 
-- Maintainer of **10+ open-source packages** on npm and PyPI
-- Writing about AI, ML and engineering at **[analyticswithharry.com](https://www.analyticswithharry.com)**
-- Based in London, England, United Kingdom
-
 ---
 
 ## What I Do
