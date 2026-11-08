@@ -53,9 +53,8 @@ I'm a **Full Stack Web Developer and AI Engineer** with **5+ years** of experien
 
 **Live products:** [AI Job Tracking](https://www.aijobtracking.com) · [SCG Bot Services](https://www.scgbotservices.com) · [Intrapreneurial AI](https://intrapreneurialai.com/)
 
----
 
-## Tech Stack
+## Techologies
 
 **Languages**
 
