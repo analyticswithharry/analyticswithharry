@@ -16,8 +16,6 @@
 
 </div>
 
-<img src="img/hero/hero-slide-4.jpg" width="100%" alt="Hemant Thapa cover" />
-
 ## The Manifest
 
 I'm a **Full Stack Web Developer and AI Engineer** with **5+ years** of experience building scalable web applications, machine learning systems and production-grade LLM solutions. I work across the whole stack, from React frontends and Node/Go microservices to RAG pipelines, agent workflows and MLOps on the cloud.
