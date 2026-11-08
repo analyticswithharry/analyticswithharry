@@ -13,13 +13,13 @@
 
 ---
 
-## Intro
+## The Manifest
 
 I'm a **Full Stack Web Developer and AI Engineer** with **5+ years** of experience building scalable web applications, machine learning systems and production-grade LLM solutions. I work across the whole stack, from React frontends and Node/Go microservices to RAG pipelines, agent workflows and MLOps on the cloud.
 
 ---
 
-## What I Do
+## Tech Stack 
 | | |
 |---|---|
 | **Full Stack Web Development** | React.js, Next.js, Vite.js, TypeScript, Node/Express, Prisma, PostgreSQL, MySQL, Stripe, REST and gRPC APIs |
@@ -30,7 +30,7 @@ I'm a **Full Stack Web Developer and AI Engineer** with **5+ years** of experien
 
 ---
 
-## Open Source Projects
+## Open Source Artifacts
 
 | Project | Description | Install |
 |---|---|---|
